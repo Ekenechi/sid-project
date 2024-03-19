@@ -36,7 +36,9 @@ function Header() {
               </li>
             </ul>
 
-            <button className="btn btn-danger">Request a Quote</button>
+            <a href="/contact" className="btn btn-danger">
+              Request a Quote
+            </a>
           </div>
         </div>
       </nav>
